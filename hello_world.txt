@@ -1,1 +1,2 @@
-Hello World
+Hello World.
+This is part of assignment of The Odin Project.
